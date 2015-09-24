@@ -1,0 +1,10 @@
+Django==1.8.4
+SwampDragon==0.4.2.2
+backports.ssl-match-hostname==3.4.0.2
+certifi==2015.9.6.2
+python-dateutil==2.4.2
+redis==2.10.3
+six==1.9.0
+sockjs-tornado==1.0.2
+tornado==4.2.1
+tornado-redis==2.4.18
